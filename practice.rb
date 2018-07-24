@@ -9,4 +9,5 @@ time_of_day = "life"
 end
 
 
-greeting
+greeting("What's up", "Kim", "Kanye", "morning")
+greeting("Hey", "Beyonce", "Karlie", "night")
