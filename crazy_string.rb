@@ -1,12 +1,9 @@
 # write your method here
 
-def crazy_strings
-  # (first_word, second_word)
-#   first_word = crazy_strings
-  
-#   puts "#{first_word}.reverse.upcase #{second_word}("s","z")"
-# end
+def crazy_strings(s,z)
 
-# crazy_strings
+s = s.reverse.upcase
+z = z.swapcase("s","z")
+
 end 
 crazy_strings
