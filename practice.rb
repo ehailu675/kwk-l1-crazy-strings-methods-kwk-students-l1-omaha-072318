@@ -1,6 +1,6 @@
 
 
-def greeting(local_greeting,your_name,my_name,time_of_day)
+def greeting(local_greeting, your_name, my_name, time_of_day)
 local_greeting = "Shalom"
 your_name = "Golda"
 my_name = "Lea"
