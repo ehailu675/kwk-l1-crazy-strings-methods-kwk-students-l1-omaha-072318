@@ -1,8 +1,7 @@
 # write your method here
-a=
-def crazy_strings (a,b)
-  puts a.reverse.upcase
-  puts b("s","z")
+
+def crazy_strings (first_word, second_word)
+  puts "#{first_word}.reverse.upcase #{second_word}("s","z")"
 end
 
 crazy_strings("Crazy", "Bananas")
