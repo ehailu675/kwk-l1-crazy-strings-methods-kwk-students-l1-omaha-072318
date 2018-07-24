@@ -6,4 +6,4 @@ s = s.reverse.upcase
 z = z.swapcase("s","z")
 
 end 
-crazy_strings
+crazy_strings(s,z)
