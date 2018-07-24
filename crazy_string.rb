@@ -7,3 +7,4 @@ z = z.swapcase.gsub("s","z")
 
 return  " #{s} #{z}"
 end 
+crazy_strings(hello, friends)
