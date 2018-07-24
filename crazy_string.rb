@@ -5,3 +5,5 @@ def crazy_strings (first_word, second_word)
 end
 
 crazy_strings("Crazy", "Bananas")
+
+crazy_strings("hi", "hello")
